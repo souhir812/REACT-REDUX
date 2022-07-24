@@ -1,0 +1,17 @@
+.header {
+    background-color: #5db87c86;
+    top: 0;
+    padding: 16px;
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 25px;
+    letter-spacing: 3px;
+    position: fixed;
+    width: 100%;
+  }
+  
+  .header h2 {
+    color: #525240;
+
+  }
+  

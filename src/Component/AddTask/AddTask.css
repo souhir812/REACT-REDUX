@@ -1,0 +1,38 @@
+.ADD {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color:#22422d86;
+    margin: 10% 15% 2% 15%;
+    height: 200px;
+    border-radius: 5px;
+  }
+  
+  .ADD h3 {
+    color: #f7f5fb;
+    font-family: "Times New Roman";
+    font-size: x-large;
+    letter-spacing: 3px;
+  }
+  
+  input {
+    width: 50%;
+    border-radius: 10px;
+    padding: 10px;
+    height: 25px;
+    font-size: 15px;
+    font-weight: 700;
+    transition: all 0.15s ease;
+    text-align: center;
+    background-color: #f2f8f6;
+  }
+  button {
+    font-family: "Times New Roman";
+    font-size: 35px;
+    font-weight: 700;
+    background-color :#22422d86 ;
+    border: none;
+    border-radius: 12px;
+    color: #c8e6d7;
+  }
